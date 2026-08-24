@@ -1,0 +1,5 @@
+torch==2.5.1+cu121
+transformers==4.57.3
+accelerate==1.12.0
+Pillow==12.0.0
+flash-attn==2.7.4.post1
